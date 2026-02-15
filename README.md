@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Suhani Agrawal</h1>
+<h2 align="center">Hi 👋, I'm Suhani Agrawal</h2>
 
-<h3 align="center">I am an aspiring Data Analyst. I love to bring insights and trends from data that can help improve the product, service or strategy. Continuous learning and social impact are my key motivators. I enjoy reading and creative writing which helps me in storytelling with data and connecting the dots. I look forward to work in this fascinating field of Data and Artificial Intelligence.</h3>
+<h4 align="left">I am an aspiring Data Analyst. I love to bring insights and trends from data that can help improve the product, service or strategy. Continuous learning and social impact are my key motivators. I enjoy reading and creative writing which helps me in storytelling with data and connecting the dots. I look forward to work in this fascinating field of Data and Artificial Intelligence.</h4>
 
-- 🌱 I’m have spent my time learning skills like **Python Libraries, SQL, Statistics and Probability, Visualization tools like Tableau and PowerBI ,Excel, DBMS Concepts, R Programming and C++ Programming**
+- 🌱 I’m have spent my time learning skills like **Python Libraries, SQL, Statistics and Probability, Visualization tools like Tableau and PowerBI ,Excel, DBMS Concepts, R Programming, DSA Concepts and C++ Programming.**
 
 - 👯 I’m looking to collaborate on **projects and solve real world problems.**
 
